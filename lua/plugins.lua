@@ -63,9 +63,9 @@ return require('packer').startup(function(use)
         --    "iamcco/markdown-preview.nvim",
         --    run = function() vim.fn["mkdp#util#install"]() end,
         -- })
-        use 'fatih/vim-go'
+        -- use 'fatih/vim-go'
         use 'mhinz/vim-startify'
-        use 'github/copilot.vim'
+        -- use 'github/copilot.vim'
         use 'lukas-reineke/indent-blankline.nvim'
 
         -- Automatically set up your configuration after cloning packer.nvim
