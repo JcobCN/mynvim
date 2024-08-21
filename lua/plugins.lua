@@ -41,6 +41,8 @@ return require('packer').startup(function(use)
         use { "ellisonleao/gruvbox.nvim" }
         -- theme ayu
         use 'Shatur/neovim-ayu'
+        use 'folke/tokyonight.nvim'
+
         use 'vim-airline/vim-airline'
         use 'vim-airline/vim-airline-themes'
         use {
