@@ -64,8 +64,8 @@ vim.g.mapleader = "\\"
 | \<C-c\> | Copy text | Press **Ctrl** and **c** to copy text | Visual |
 | \<C-v\> | Paste text | Press **Ctrl** and **v** to paste text | Normal |
 | \<F5\> | Create a new tab window | Press **F5** key to create a new tab | Normal |
-| \<leader\>t | Open the file tree on the left side | Press **leader**,**t** | Normal |
-| \<leader\>tf | Open the file tree on the left side and navigate to the location of your current file | Press **leader**,**t**,**f** | Normal |
+| \<leader\>e | Open the file tree on the left side | Press **leader**,**t** | Normal |
+| \<leader\>f | Open the file tree on the left side and navigate to the location of your current file | Press **leader**,**t**,**f** | Normal |
 | \<leader\>te | Open a floating terminal inside the file | Press **leader**,**t**,**e** | Normal |
 | \<leader\>g | View the git commit history for the current line where the cursor is located | Press **leader**,**g** | Normal |
 
