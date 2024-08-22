@@ -1,7 +1,6 @@
-require('options')
 require('keymaps')
-require('plugins')
+require('config.lazy')
+require('options')
 require('colorscheme')
-
 require("nvim-tree").setup()
 require('options-plugins')
